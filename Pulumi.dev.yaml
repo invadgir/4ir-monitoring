@@ -1,0 +1,4 @@
+config:
+  4ir-monitoring:namespace: monitoring
+  4ir-monitoring:grafana_password:
+    secure: AAABAE8QFhVxu0F7W0nQLmGaQjbMrG2I4tmwDDwOyXd0qvRDaJUk4FZ/DVE=
