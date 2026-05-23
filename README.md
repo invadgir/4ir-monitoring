@@ -26,7 +26,7 @@ a single command.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/pmathieus07/4ir-monitoring.git
+git clone git@github.com:invadgir/4ir-monitoring.git
 cd 4ir-monitoring
 ```
 
